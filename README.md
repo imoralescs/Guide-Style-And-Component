@@ -1,2 +1,3 @@
 # Guide-Style-And-Component
-An [example](http://url.com/ "Title")
+*   BEM Accordion Responsive
+An [Link](http://plnkr.co/DioCRw5GSx69ycMpWVUR "BEM Accordion Responsive")
